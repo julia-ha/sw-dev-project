@@ -53,10 +53,11 @@ cd sw-dev-project
 source venv/bin/activate
 ```
 
-### Install jupyter notebook software
+### Install jupyter notebook software and other dependencies
 
 ```bash
 pip install notebook
+pip install requests matplotlib
 ```
 
 ### Start the jupyter notebooks server
