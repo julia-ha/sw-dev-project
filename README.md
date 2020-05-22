@@ -11,9 +11,9 @@ The project covers a few objecives:
 1. Your ability to use a public API with python
 2. Demonstration of your ability to quickly learn something that is potentially unfamiliar, like SPARQL and Jupyter notebooks
 3. Creativity in selecting a subject and displaying the output
-4. Communication skills in describing the approach and presenting the results 
+4. Communication skills in describing the approach and presenting the results
 
-After the project has been completed and submitted to us we will schedule a video call in which you will describe your process and the solution.  This is expected to take 30 minutes or less.  Following the presentation of the project solution there will be time for general discssion and Q/A with the team.
+After the project has been completed and submitted to us we will schedule a video call in which you will describe your process and the solution.  This is expected to take 30 minutes or less.  Following the presentation of the project solution there will be time for general discussion and Q/A with the team.
 
 ## Background
 
