@@ -1,6 +1,6 @@
 # JSTOR Labs software developer project
 
-In this final phase of our recruiting and selection process for the JSTOR Labs Software Developer position we are requesting that each candidate complete a development assignment and review the results with the team.  It is expected that the project will require approximately 4 hours of effort. The output will be a single jupyter notebook that will be shared with us via a [Binder](https://mybinder.org/) link to an executable version of the notebook.  The notebook should include all produced documentation and code.
+In this final phase of our recruiting and selection process for the JSTOR Labs Software Developer position we are requesting that each candidate complete a development assignment and review the results with the team.  It is expected that the project will require approximately 4 hours of effort. The output will be a single [jupyter notebook](https://jupyter.org/) that will be shared with us via a [Binder](https://mybinder.org/) link to an executable version of the notebook.  The notebook should include all produced documentation and code.
 
 The project covers a few objectives:
 
