@@ -1,8 +1,8 @@
 # JSTOR Labs software developer project
 
-In this final phase of our recruiting and selection process for the JSTOR Labs Software Developer position we are requesting that each candidate complete a development assignment and review the results with the team.  It is expected that the project will require approximatey 4 hours of effort. The output will be a single jupyter notebook that will be shared with us via a [Binder](https://mybinder.org/) link to an executable version of the notebook.  The notebook should include all produced documentation and code.
+In this final phase of our recruiting and selection process for the JSTOR Labs Software Developer position we are requesting that each candidate complete a development assignment and review the results with the team.  It is expected that the project will require approximately 4 hours of effort. The output will be a single jupyter notebook that will be shared with us via a [Binder](https://mybinder.org/) link to an executable version of the notebook.  The notebook should include all produced documentation and code.
 
-The project covers a few objecives:
+The project covers a few objectives:
 
 1. Your ability to use a public API with python
 2. Demonstration of your ability to quickly learn something that is potentially unfamiliar, like SPARQL, text analysis and Jupyter notebooks
@@ -24,7 +24,7 @@ Below is some background information and environment setup instructions applicab
 
 ### Jupyter notebooks
 
-[Jupyter notebooks](https://jupyter.org/) provide web-based execution environments for a variety of programming languages including Python, R, and Julia.  The notebooks support the mixing of executable code snippets and formatted documentation (in [Markdown](https://www.markdownguide.org/getting-started/)).  Jupyter notebooks were intially used as a tool used by data scientists to easily share analyses and dashboards but in recent years are now used for many other purposes, including teaching and learning.
+[Jupyter notebooks](https://jupyter.org/) provide web-based execution environments for a variety of programming languages including Python, R, and Julia.  The notebooks support the mixing of executable code snippets and formatted documentation (in [Markdown](https://www.markdownguide.org/getting-started/)).  Jupyter notebooks were initially used as a tool used by data scientists to easily share analyses and dashboards but in recent years are now used for many other purposes, including teaching and learning.
 
 ### Binder
 
@@ -32,7 +32,7 @@ Below is some background information and environment setup instructions applicab
 
 ## Environment setup
 
-This is not intended to be an exhustive tutorial on setting up a local environment but rather describes what I did (on a Macbook) in case the general approach is useful to get started.
+This is not intended to be an exhaustive tutorial on setting up a local environment but rather describes what I did (on a Macbook) in case the general approach is useful to get started.
 
 ### Fork the JSTOR-Labs sw-dev-project code
 
