@@ -1,31 +1,30 @@
 # JSTOR Labs software developer project
 
-## Project description
-
-The project assignment is to develop a [jupyter notebook](https://jupyter.org/) that uses data queried from the [Wikidata](https://www.wikidata.org) knowledge graph to generate table(s) and/or other visualization(s) with the queried data.  The subject of the data queried and resulting output is completely open and can be anything from the serious to the whimsical.
-
-It is expected that the project would require approximatey 4 hours of effort.  The output will be a single jupyter notebook that will be shared with us via a [Binder](https://mybinder.org/) link to an executable version of the notebook.  The notebook should include any necessay documentation to describe the subject of the query and the steps involved in going from the general idea to the generated output.  The [included example](wikidata-example.ipynb) can be used for general guidance.
+In this final phase of our recruiting and selection process for the JSTOR Labs Software Developer position we are requesting that each candidate complete a development assignment and review the results with the team.  It is expected that the project will require approximatey 4 hours of effort. The output will be a single jupyter notebook that will be shared with us via a [Binder](https://mybinder.org/) link to an executable version of the notebook.  The notebook should include all produced documentation and code.
 
 The project covers a few objecives:
 
 1. Your ability to use a public API with python
-2. Demonstration of your ability to quickly learn something that is potentially unfamiliar, like SPARQL and Jupyter notebooks
-3. Creativity in selecting a subject and displaying the output
+2. Demonstration of your ability to quickly learn something that is potentially unfamiliar, like SPARQL, text analysis and Jupyter notebooks
+3. Creativity in selecting a subject and generating the output
 4. Communication skills in describing the approach and presenting the results
 
-After the project has been completed and submitted to us we will schedule a video call in which you will describe your process and the solution.  This is expected to take 30 minutes or less.  Following the presentation of the project solution there will be time for general discussion and Q/A with the team.
+After the project has been completed and submitted to us we will schedule a video call in which you will describe the project, your process and the solution.  This portion of the meeting is expected to take 30 minutes or less.  Following the presentation of the project solution there will be time for general discussion and Q/A with the team.
 
-## Background
+You may choose from one of two projects:
 
-### Wikidata
+1. A [text mining project](/Project-1.md) that uses text data obtained from from a public data source.
+2. A [Linked Open Data (LOD) project](/Project-2.md) that queries data from Wikidata.
 
-[Wikidata](https://www.wikidata.org) is an open knowledge graph consisting of nearly 90 million entities.  Wikidata has rapidly become one of the largest and most important respositories of Linked Open Data [(LOD)](https://en.wikipedia.org/wiki/Linked_data) in the evolution of the [semantic web](https://en.wikipedia.org/wiki/Semantic_Web) first described by Tim Berners-Lee in 1999.  The semantic web envisions the internet as more than just human readable web pages but as a global database of semantic data that can also be consumed by machines.  Wikidata provides a [public endpoint](https://query.wikidata.org/) through which [SPARQL](https://en.wikipedia.org/wiki/SPARQL) queries are submitted to obtain results.
+Each project allows some latitude in the approach taken and specific output produced.  That is to say, there really isn't a right or wrong solution for either project.  This is more about you demonstrating your ability to use problem solving and software development to explore an area that may initially be unfamiliar, you know, the kind of thing a JSTOR Labs developer will do pretty much every day. 
 
-In considering a subject for the project the queries on the [Wikidata examples](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples) page might be useful as both a source of inspiration and SPARQL syntax samples.
+## Getting started
+
+Below is some background information and environment setup instructions applicable to both projects.  If you have other questions or run into problems with this feel free to send me an email.
 
 ### Jupyter notebooks
 
-Jupyter notebooks provide web-based execution environments for a variety of programming languages including Python, R, and Julia.  The notebooks support the mixing of executable code snippets and formatted documentation (in [Markdown](https://www.markdownguide.org/getting-started/)).  Jupyter notebooks were intially used as a tool used by data scientists to easily share analyses and dashboards but in recent years are now used for many other purposes, including teaching and learning.
+[Jupyter notebooks](https://jupyter.org/) provide web-based execution environments for a variety of programming languages including Python, R, and Julia.  The notebooks support the mixing of executable code snippets and formatted documentation (in [Markdown](https://www.markdownguide.org/getting-started/)).  Jupyter notebooks were intially used as a tool used by data scientists to easily share analyses and dashboards but in recent years are now used for many other purposes, including teaching and learning.
 
 ### Binder
 
