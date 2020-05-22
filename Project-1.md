@@ -12,7 +12,7 @@ The LCCN identifier included on the details page for an individual newspaper can
 
 Using the Chronicling America API, harvest 100 or more newspaper issues from two or more newspapers.
 
-The sample functions in the [provided notebook](chronicling-america.ipynb) provide examples of calling the API via Python.
+The sample functions in the [provided notebook](chronicling-america-example.ipynb) provide examples of calling the API via Python.
 
 ### Transform
 
